@@ -1,0 +1,30 @@
+_repo: Kiinan-pyha-helmi-b-Erik-Holmin-professori-Almkvistin-ja-Wen-Siang-in-ihmeelliset-seikkailut_71458
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, Vilho
+    gutenberg_agent_id: '56248'
+    url: http://www.gutenberg.org/2009/agents/56248
+creator:
+  author:
+    agent_name: Hansen, Erik
+    gutenberg_agent_id: '56247'
+    url: http://www.gutenberg.org/2009/agents/56247
+description: ''
+gutenberg_issued: '2023-08-20'
+identifiers:
+  gutenberg: '71458'
+language: fi
+pgterms:marc905: 20210806034211hansen
+pgterms:marc906: '1918'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kiinan pyhä helmi : $b Erik Holmin, professori Almkvistin ja Wen Siang''in
+  ihmeelliset seikkailut'
+url: http://www.gutenberg.org/ebooks/71458
