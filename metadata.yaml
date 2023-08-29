@@ -5,12 +5,17 @@ contributor:
     agent_name: Nyman, Vilho
     gutenberg_agent_id: '56248'
     url: http://www.gutenberg.org/2009/agents/56248
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hansen, Erik
     gutenberg_agent_id: '56247'
     url: http://www.gutenberg.org/2009/agents/56247
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71458#Kiinan-pyha-helmi-b-Erik-Holmin-professori-Almkvistin-ja-Wen-Siang-in-ihmeelliset-seikkailut
 gutenberg_issued: '2023-08-20'
 identifiers:
   gutenberg: '71458'
